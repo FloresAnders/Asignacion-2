@@ -8,7 +8,7 @@
         "addWords": true
       }
     ],
-    "words": [],
+    "words": ["Newitem"],
     "dictionaries": ["project-words"],
     "ignorePaths": ["node_modules", "/project-words.txt"]
   }
